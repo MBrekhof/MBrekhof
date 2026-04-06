@@ -32,6 +32,7 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 
 ## Infrastructure & Integration
 
+- **[XafGrafana](https://github.com/MBrekhof/XafGrafana)** — Prometheus/Grafana observability stack for XAF Blazor Server
 - **[xafhangfire](https://github.com/MBrekhof/xafhangfire)** — Hangfire job dispatcher integration
 - **[n8ncrm](https://github.com/MBrekhof/n8ncrm)** — XAF Blazor CRM with n8n workflow automation via OData/REST
 - **[xafmaui](https://github.com/MBrekhof/xafmaui)** — XAF Blazor Server + .NET MAUI mobile companion
