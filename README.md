@@ -21,6 +21,11 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 - **[XafGitHubCopilot](https://github.com/MBrekhof/XafGitHubCopilot)** — GitHub Copilot integration for XAF
 - **[xafskills](https://github.com/MBrekhof/xafskills)** — Claude Code skills distilling hard-learned XAF + EF Core patterns
 
+## MCP Servers
+
+- **[mcpRoslyn](https://github.com/MBrekhof/mcpRoslyn)** — C# code intelligence MCP server: 13 symbol-level navigation tools (find_references, goto_definition, semantic_search, …) over Roslyn MSBuildWorkspace
+- **[mcpOffice](https://github.com/MBrekhof/mcpOffice)** — MCP server for Microsoft Office documents, built on DevExpress.Docs
+
 ## Security & Roles
 
 - **[XafRoleChooser](https://github.com/MBrekhof/XafRoleChooser)** — Runtime role selection
@@ -34,14 +39,16 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 
 - **[XafGrafana](https://github.com/MBrekhof/XafGrafana)** — Prometheus/Grafana observability stack for XAF Blazor Server
 - **[xafhangfire](https://github.com/MBrekhof/xafhangfire)** — Hangfire job dispatcher integration
-- **[n8ncrm](https://github.com/MBrekhof/n8ncrm)** — XAF Blazor CRM with n8n workflow automation via OData/REST
+- **[XAFn8nCRM](https://github.com/MBrekhof/XAFn8nCRM)** — XAF Blazor CRM with n8n workflow automation via OData/REST
 - **[xafmaui](https://github.com/MBrekhof/xafmaui)** — XAF Blazor Server + .NET MAUI mobile companion
+- **[XafFilter](https://github.com/MBrekhof/XafFilter)** — Custom column-filter UI for XAF Blazor Server: five drop-in filter menus with a tested demo app
 - **[XafDataDrivenConditionalApp](https://github.com/MBrekhof/XafDataDrivenConditionalApp)** — Database-stored, runtime-editable appearance rules
 - **[XafSearch](https://github.com/MBrekhof/XafSearch)** — Search functionality patterns
 
 ## Other & Experimental
 
 - **[limbo](https://github.com/MBrekhof/limbo)** — Limbo-inspired 2D puzzle-platformer built with Godot 4.6 + C# (not XAF!)
+- **[ClaudeViewer](https://github.com/MBrekhof/ClaudeViewer)** — WinForms artifact viewer for Claude Code: watches a folder for HTML/Markdown and renders them in tabbed WebView2 panes
 - **[tcpdebug](https://github.com/MBrekhof/tcpdebug)** — WinForms HTTP debug message receiver
 - **[yvanGPT](https://github.com/MBrekhof/yvanGPT)** — GPT experiment
 - **[Reactive.XAF](https://github.com/MBrekhof/Reactive.XAF)** — Fork of the ExpandFramework XAF extensions
