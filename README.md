@@ -23,7 +23,7 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 
 | Repo | Updated | Description |
 |---|---|---|
-| **[SharpMind](https://github.com/MBrekhof/SharpMind)** *(fork)* | 2026-09-13 | Pure C# / .NET LLM engine — inference, training and agent tooling in one solution |
+| **[SharpMind](https://github.com/MBrekhof/SharpMind)** *(fork)* | 2026-09-15 | Pure C# / .NET LLM engine — inference, training and agent tooling in one solution |
 | **[XafTornado](https://github.com/MBrekhof/XafTornado)** | 2026-09-12 | Multi-provider AI assistant integrated into XAF via LLMTornado |
 | **[XafDynamicAssemblies](https://github.com/MBrekhof/XafDynamicAssemblies)** | 2026-09-10 | AI-powered runtime entity system: create business object types, properties and relationships at runtime via Roslyn compilation (EF Core) |
 | **[XafAIReportDesigner](https://github.com/MBrekhof/XafAIReportDesigner)** | 2026-09-09 | Standalone prompt-to-report designer with schema-aware AI context |
@@ -59,8 +59,9 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 
 | Repo | Updated | Description |
 |---|---|---|
-| **[XafLayoutBuilder](https://github.com/MBrekhof/XafLayoutBuilder)** | 2026-09-14 | Typed C# builders for XAF view layouts and appearance rules, with export from the running Blazor app back to code |
-| **[XafMergerTool](https://github.com/MBrekhof/XafMergerTool)** | 2026-09-10 | Developer tool for saving XAF Blazor runtime view customizations back into module XAFML |
+| **[XAFn8nCRM](https://github.com/MBrekhof/XAFn8nCRM)** | 2026-09-16 | XAF Blazor CRM with n8n workflow automation via OData/REST |
+| **[XafLayoutBuilder](https://github.com/MBrekhof/XafLayoutBuilder)** | 2026-09-15 | Typed C# builders for XAF view layouts and appearance rules, with export from the running Blazor app back to code |
+| **[XafMergerTool](https://github.com/MBrekhof/XafMergerTool)** | 2026-09-15 | Developer tool for saving XAF Blazor runtime view customizations back into module XAFML |
 | **[xafgrid](https://github.com/MBrekhof/xafgrid)** | 2026-09-03 | XAF Blazor grid demos: nested detail rows, rich cells, custom grouping, summaries, row reordering and saved layouts |
 | **[XafReportScheduler](https://github.com/MBrekhof/XafReportScheduler)** | 2026-08-26 | XAF Blazor report scheduling with editable seeded reports, saved filter criteria and Hangfire cron jobs |
 | **[XafReportParametersObjects](https://github.com/MBrekhof/XafReportParametersObjects)** | 2026-08-22 | Generate ReportsV2 `ReportParametersObjectBase` classes from report metadata at the push of a button |
@@ -73,16 +74,11 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 | **[XafSearch](https://github.com/MBrekhof/XafSearch)** | 2026-03-08 | Search functionality patterns |
 | **[XafDataDrivenConditionalApp](https://github.com/MBrekhof/XafDataDrivenConditionalApp)** | 2026-03-06 | Database-stored, runtime-editable appearance rules |
 | **[xafhangfire](https://github.com/MBrekhof/xafhangfire)** | 2026-03-04 | Hangfire job dispatcher integration |
-| **[XAFn8nCRM](https://github.com/MBrekhof/XAFn8nCRM)** | 2026-02-17 | XAF Blazor CRM with n8n workflow automation via OData/REST |
-| **[Reactive.XAF](https://github.com/MBrekhof/Reactive.XAF)** *(fork)* | 2026-02-15 | The eXpandFramework reactive extension framework for XAF |
 
 ## Tooling & Experimental
 
 | Repo | Updated | Description |
 |---|---|---|
 | **[limbo](https://github.com/MBrekhof/limbo)** | 2026-08-10 | Limbo-inspired 2D puzzle-platformer built with Godot 4.6 + C# (not XAF!) |
-| **[ClaudeViewer](https://github.com/MBrekhof/ClaudeViewer)** | 2026-06-29 | WinForms artifact viewer for Claude Code: watches a folder for HTML/Markdown and renders them in tabbed WebView2 panes |
-| **[ClaudeBoard](https://github.com/MBrekhof/ClaudeBoard)** | 2026-06-19 | WinForms dashboard for managing Claude Code configuration across projects |
 | **[MarkdownToDocxGenerator](https://github.com/MBrekhof/MarkdownToDocxGenerator)** *(fork)* | 2026-06-08 | Markdown → docx library for turning one or more files into a Word document |
 | **[tcpdebug](https://github.com/MBrekhof/tcpdebug)** | 2026-02-10 | WinForms HTTP debug receiver for capturing debug traffic from browser/web-service environments |
-| **[yvanGPT](https://github.com/MBrekhof/yvanGPT)** | 2025-12-29 | Early RAG chat experiment: vector store + chat integration over a PDF manual |
