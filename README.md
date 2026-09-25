@@ -23,6 +23,7 @@ Netherlands-based .NET developer pushing DevExpress XAF to its limits with AI. E
 
 | Repo | Updated | Description |
 |---|---|---|
+| **[xafragsql](https://github.com/MBrekhof/xafragsql)** | 2026-09-20 | RAG for XAF Blazor on SQL Server 2025's native `VECTOR` type, with EF Core 10 and DxAIChat |
 | **[SharpMind](https://github.com/MBrekhof/SharpMind)** *(fork)* | 2026-09-15 | Pure C# / .NET LLM engine — inference, training and agent tooling in one solution |
 | **[XafTornado](https://github.com/MBrekhof/XafTornado)** | 2026-09-12 | Multi-provider AI assistant integrated into XAF via LLMTornado |
 | **[XafDynamicAssemblies](https://github.com/MBrekhof/XafDynamicAssemblies)** | 2026-09-10 | AI-powered runtime entity system: create business object types, properties and relationships at runtime via Roslyn compilation (EF Core) |
